@@ -1,0 +1,9 @@
+Poem Explanation: For a while
+
+In the following poem, the author expresses the concept of a for loop. He chooses to do so narrating a fictional story of what learning about it would have been like. The central struggle experienced by the protagonist is an "off by one" error, where the expected output differs from the real output by one. Private conversations with the poet suggest that many years after first learning to deal with this issue, he himself routinely stills make this mistake, which prompted him to reference this concept.
+
+When faced with the issue, commonly described as a "bug", the protagonist takes an unusual path to rectify the issue. In debugging, the protagonist chooses to display every number that the loop goes through. Such an approach is not often seen amongst early learners. It requires for the programmer to generate a hypothesis on what might be going wrong and find the quickest way of testing it. In this example, the hypothesis was that one less number was being printed than expected. The means of testing it is by displaying the numbers seen. Upon running that code, the protagonist notices that the last number is not being printed. He or she (gender left ambigious by the poet, perhaps as a means of exposing our pre-conceived notions of who writes code) then makes appropriate changes to the code and is able to continue.
+
+The "blue hoodies" refer to the teaching assistants of the introductory python programming course at the poet's undergraduate institution. Parallels are then drawn between technical terms used by the TAs to explain the bug faced by the protagonist and the protagonist's concerns about society today. 
+
+The poet draws the poem to a close in a fairly unremarkable fashion - by getting stuck in a while loop, trying and trying again. It waits to be seen whether the protagonist will ever die in a future poem, allowing for the termination of the while loop.
